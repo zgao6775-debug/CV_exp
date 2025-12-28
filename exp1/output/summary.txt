@@ -1,0 +1,1 @@
+{'hist_bins': 256, 'texture': {'contrast': 6.255248253948355, 'energy': 0.02163556572042826, 'homogeneity': 0.7379650640866522, 'entropy': 4.770904990712184}, 'outputs': ['LiYang_sobel_given.png', 'LiYang_sobel_gx.png', 'LiYang_sobel_gy.png', 'LiYang_sobel_mag.png', 'LiYang_rgb_hist.png', 'LiYang_texture.npy']}
